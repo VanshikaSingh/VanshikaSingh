@@ -1,13 +1,14 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Vanshika</h1>
-<h3 align="center">A passionate frontend developer from Halifax,Canada</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vanshikasingh" alt="vanshikasingh" /></a> </p>
+<h1 align="center">Hi 👋, I'm Vanshika</h1>
+<h3 align="center">A passionate frontend developer working at IBM Canada</h3>
 
 - 🌱 I’m currently learning **Springboot**
 
 - 💬 Ask me about **AWS Cloud**
+
+- 📫 How to reach me **www.linkedin.com/in/ vanshikasingh009**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
