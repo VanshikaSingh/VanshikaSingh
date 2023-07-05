@@ -1,6 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Vanshika</h1>
 <h3 align="center">A passionate frontend developer working at IBM Canada</h3>
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzJzNHp3cXlzZWdmbGo4bzN4MjJ5Mm80aDBxODRnamNxcjlpdmg3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.gif" alt="coding" width="400" />
 
 - 🌱 I’m currently learning **Springboot**
 
@@ -9,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/vanshikasingh009" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzJzNHp3cXlzZWdmbGo4bzN4MjJ5Mm80aDBxODRnamNxcjlpdmg3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.gif)" alt="www.linkedin.com/in/vanshikasingh009" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/vanshikasingh009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vanshikasingh009" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
