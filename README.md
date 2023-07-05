@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzJzNHp3cXlzZWdmbGo4bzN4MjJ5Mm80aDBxODRnamNxcjlpdmg3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.gif))
 <h1 align="center">Hi 👋, I'm Vanshika</h1>
 <h3 align="center">A passionate frontend developer working at IBM Canada</h3>
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzJzNHp3cXlzZWdmbGo4bzN4MjJ5Mm80aDBxODRnamNxcjlpdmg3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.gif" alt="coding" width="400" />
