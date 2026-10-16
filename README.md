@@ -6,10 +6,6 @@ Currently learning: MCP, RAG, and structured outputs for LLM apps.
 
 **Stack:** React, TypeScript, Node.js, Express, SQL, GraphQL
 
-## Featured project
-
-**[ResumeLens](https://github.com/VanshikaSingh/ResumeLens)**: AI-powered resume analyzer with ATS scoring, job matching, and personalized resume feedback. Built with React, TypeScript, and the Anthropic API.
-
 ## Tech I use day to day
 
 ![React](https://skillicons.dev/icons?i=react,ts,js,redux,html,css,sass,tailwind,jest)
